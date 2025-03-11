@@ -19,8 +19,8 @@ public class Book {
 
     void display(){
         System.out.println("Title: "+title);
-        System.out.println("Author: "+title);
-        System.out.println("Price: "+title);
+        System.out.println("Author: "+author);
+        System.out.println("Price: "+price);
     }
 
     public static void main(String[] args) {
